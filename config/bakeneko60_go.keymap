@@ -33,11 +33,11 @@
 
         funtion {
             bindings = <
-&trans  &trans    &trans    &trans     &trans  &trans  &trans  &trans  &trans  &trans  &trans   &trans        &trans        &trans  &trans
-&trans  &trans    &kp UP    &trans     &trans  &trans  &trans  &trans  &trans  &trans  &trans   &kp C_VOL_DN  &kp C_VOL_UP          &kp K_MUTE
-&trans  &kp LEFT  &kp DOWN  &kp RIGHT  &trans  &trans  &trans  &trans  &trans  &trans  &kp F13  &kp F14                             &kp LG(LC(V))
-&trans            &trans    &trans     &trans  &trans  &trans  &trans  &trans  &trans  &trans   &trans        &trans                &trans
-&trans  &trans              &trans                     &trans                          &trans   &trans        &trans                &trans
+&trans  &trans    &trans    &trans     &trans  &trans  &trans  &trans  &trans  &trans  &trans   &trans        &trans        &kp LA(F4)  &kp LA(F4)
+&trans  &trans    &kp UP    &trans     &trans  &trans  &trans  &trans  &trans  &trans  &trans   &kp C_VOL_DN  &kp C_VOL_UP              &kp K_MUTE
+&trans  &kp LEFT  &kp DOWN  &kp RIGHT  &trans  &trans  &trans  &trans  &trans  &trans  &kp F13  &kp F14                                 &kp LG(LC(V))
+&trans            &trans    &trans     &trans  &trans  &trans  &trans  &trans  &trans  &trans   &trans        &trans                    &trans
+&trans  &trans              &trans                     &trans                          &trans   &trans        &trans                    &trans
             >;
         };
 
